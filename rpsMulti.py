@@ -1,4 +1,5 @@
 # Made by Ezel K. A rock, paper, scissors app for computer terminals.
+# Read the file labelled 'rpsMulti_description.txt' in this repo to learn how to use this app and install this app onto your device.
 # Copyright (C) 2026 Ezel K.
 # Licensed under the MIT License (see LICENSE file).
 
