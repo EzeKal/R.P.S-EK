@@ -1,0 +1,38 @@
+# Made by Ezel K.
+# Copyright (C) 2026 Ezel K.
+# Licensed under the MIT License (see LICENSE file).
+
+The rpsMulti app is a rock, paper, scissors app for tablets, phones, computers & other devices able to run the Python coding language in a terminal.
+
+How to install on your device:
+
+First, make sure you have Python installed, some systems have Python already installed for you, but if you don't have Python installed visit https://www.python.org/downloads to install it.
+Then, download the rpsMulti.py app in this repo.
+After that, open the file you just downloaded by double-clicking it.
+Now you're ready to play!
+
+How to play:
+
+You play against the robot:
+
+When you start, there will be a message asking you which option you want to choose.
+
+Your Options:
+1. rock - Make sure to type the word in all lowercase.
+2. paper - Make sure to type the word in all lowercase.
+3. scissors - Make sure to type the word in all lowercase.
+
+After you have typed your option, the robot will choose it's option.
+Then, it will show a message that tells you what the robot has chose and if you won, lost or got a tie.
+After that, it will show an end symbol.
+
+End Symbols:
+1. A Tick - This means you have won.
+2. A Cross - This means you have lost.
+3. A Line- This means you have a tie, both sides have chose the same option.
+
+Finally, there will be a message asking you if you want to play another rock, paper, scissors match with the robot.
+
+Final Options:
+1. no - Make sure to type the word in all lowercase.
+2. yes - Make sure to type the word in all lowercase.
