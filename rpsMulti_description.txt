@@ -6,11 +6,17 @@ The rpsMulti app is a rock, paper, scissors app for tablets, phones, computers &
 
 How to install on your device:
 
-First, make sure you have Python installed, some systems have Python already installed for you, but if you don't have Python installed visit https://www.python.org/downloads to install it on a computer. For iPhones & iPads, search for the Python Coding app on the App Store, but for Android phones & tablets, search for the PyDroid 3 app on the Google Play Store.
+First, make sure you have Python installed, some systems have Python already installed for you, but if you don't have Python installed visit https://www.python.org/downloads to install it on a computer. 
+For iPhones & iPads, search for the Python Coding app on the App Store, 
+but for Android phones & tablets, search for the PyDroid 3 app on the Google Play Store.
 
 Then, download the rpsMulti.py app in this repo.
 
-After that, if your using a computer then you can just open the file you just downloaded by double-clicking it. For iPhones & iPads, open the Python Coding app you installed, then press 'Browse Files' and look for the file you just downloaded. For Android phones & tablets, open the 'Files' app, then find the file you just downloaded, once you have found the file, long press it, then press the 3 dots in the top right corner, then press 'Open with', after that a list of apps will show up, from the list select PyDroid 3, then press the yellow circle button with a play icon (▶︎) in the bottom left corner of your screen.
+After that, if your using a computer then you can just open the file you just downloaded by double-clicking it. 
+For iPhones & iPads, open the Python Coding app you installed, then press 'Browse Files' and look for the file you just downloaded. 
+For Android phones & tablets, open the 'Files' app, then find the file you just downloaded, once you have found the file, long press it,
+then press the 3 dots in the top right corner, then press 'Open with', after that a list of apps will show up, from the list select PyDroid 3, 
+then press the yellow circle button with a play icon (▶︎) in the bottom left corner of your screen.
 
 Now you're ready to play!
 
