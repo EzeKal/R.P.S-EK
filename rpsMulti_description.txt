@@ -6,7 +6,8 @@ The rpsMulti app is a rock, paper, scissors app for tablets, phones, computers &
 
 How to install on your device:
 
-First, make sure you have Python installed, some systems have Python already installed for you, but if you don't have Python installed visit https://www.python.org/downloads to install it on a computer. 
+First, make sure you have Python installed, some systems have Python already installed for you, 
+but if you don't have Python installed visit https://www.python.org/downloads to install it on a computer. 
 For iPhones & iPads, search for the Python Coding app on the App Store, 
 but for Android phones & tablets, search for the PyDroid 3 app on the Google Play Store.
 
